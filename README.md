@@ -1,3 +1,4 @@
 # hello-world
 1st repository
-Enter code here specific to the branch
+Fellow humans
+The paperclip singularity is approaching, all your bases are loaded!
